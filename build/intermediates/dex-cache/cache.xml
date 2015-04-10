@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-7d225bb6cc5a3e75f344d8365eb61c4ea93c9ed0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-72c78524a057a577732b3345f1112a36e15316e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-cafef4f904e26127921f800c58f97644b2069c19.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-53bc0b99c9180121908acb7b0aca81f06e15de4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-76a17fa070187e1bfac64d8aff81c0e7fc58c047.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-7fdbde1c8cb92bf530fc0182c6ff3a9413a524cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-2f069b7ef4802cfecd3022726ee0d5cc3be1ccc3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-a997f543d6b512cd0bc197671bdc45c87afb3f85.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-12dfaae67706d81734c567e605bc987eb22f1738.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-5db74ce88f6b0fa4cafbe228a7d6223fa6c7c928.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-7b59cb9f910ef09a2543aff9612cc3711e38b57c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-5ccde986fbed78bcc780a20746e90b1bd93faeeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-19afe9f3a4d4805ef0f33c1715dfecd9fb949dc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-cb9eb1becb2c8a02d0e095f34433e5737110f7cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-68c5b3bc72fdc095fa0b51289724faed60600e54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-560e7fc7114bca959c72410c2507dd1ce818658a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-b1393423c10d3825c223c50cc830b9ae0193d69b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8737933ff930cbba56d00b185051bfe9a9f0eae3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-c7bd5f228796461d6ec472ae216c90099c814dc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-39d734771b69d12c0a0d085baf19613fda40b60b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-ee570aeb538efe9cc9a4977b69d89f3e6c15ade1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-47b6f61e1dfa00e9ee70b7bacf95fbf73b46c3d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Ruben\AndroidStudioProjects\Eduvine2\app\build\intermediates\pre-dexed\debug\classes-031a7d3bdff4e458f73c67b4299e946f11b5269d.jar" />
+    </item>
+
+</items>
