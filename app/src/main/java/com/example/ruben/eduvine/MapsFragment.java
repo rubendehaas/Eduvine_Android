@@ -53,7 +53,7 @@ public class MapsFragment extends Fragment {
     private GoogleMap mMap;
     private SupportMapFragment smf;
     ArrayList<HashMap<String, String>> jsonlist = new ArrayList<HashMap<String, String>>();
-    private String locationURL = "http://demo.avans.milananas.nl/api/location";
+    private String locationURL = "";
 
     public static MapsFragment newInstance(int position) {
         MapsFragment fragment = new MapsFragment();
